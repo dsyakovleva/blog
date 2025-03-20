@@ -35,8 +35,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-Дарья, студентка 1 курса направления Прикладная информатика  
-
 interests:
   - Программирование  
   - Разработка веб-приложений  
