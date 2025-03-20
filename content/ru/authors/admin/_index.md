@@ -35,63 +35,74 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
+Дарья, студентка 1 курса направления Прикладная информатика  
+
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - Программирование  
+  - Разработка веб-приложений  
+  - Кибербезопасность  
+  - Анализ данных  
+  - Искусственный интеллект  
 
 education:
-  - area: Student
-    institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
-work:
-  - position: Student
-    company_name: RUDN
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: 
+  - area: Student  
+    institution: RUDN  
+    date_start: 2024-09-01  
+    date_end: 2028-05-31  
+    summary: Студентка направления "Прикладная информатика". Интересуюсь разработкой программного обеспечения, анализом данных и внедрением IT-решений в различные сферы.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+work:
+  - position: Student  
+    company_name: RUDN  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2024-09-01  
+    date_end: ''  
+    summary: Участвую в учебных проектах по программированию, анализу данных и разработке приложений.  
+
+# Skills  
+# Add your own SVG icons to assets/media/icons/  
 skills:
-  - name: Хард скиллы
+  - name: Хард скиллы  
     items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: Python  
+        description: Программирование, автоматизация задач, анализ данных.  
+        percent: 75  
+        icon: code-bracket  
+      - name: C++  
+        description: Основы разработки приложений и алгоритмов.  
+        percent: 60  
+        icon: cpu-chip  
+      - name: SQL  
+        description: Работа с базами данных, написание запросов.  
+        percent: 70  
+        icon: database  
+      - name: Веб-разработка  
+        description: HTML, CSS, JavaScript, основы React.  
+        percent: 55  
+        icon: globe  
+  - name: Хобби  
+    color: '#eeac02'  
+    color_border: '#f0bf23'  
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+      - name: Геймдев  
+        description: Интересуюсь разработкой игр и работой с движками.  
+        percent: 65  
+      - name: Волейбол  
+        description: Регулярно играю в университете и на соревнованиях.  
+        percent: 85  
+      - name: Чтение  
+        description: Люблю научно-популярную и классическую литературу.  
+        percent: 80  
 
 languages:
-  - name: Русский
-    percent: 100
-  - name: Английский
-    percent: 60
+  - name: Русский  
+    percent: 100  
+  - name: Английский  
+    percent: 75  
+  - name: Японский  
+    percent: 30  
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
